@@ -1,0 +1,11 @@
+notifications
+issue： discussion
+branch：Creating a branch allows you to make modifications to your project without changing the deployed main branch.
+commit: add/change a file
+pull requests: 
+  collaboration, help you share your changes, receive feedback on them, and iterate on them until they’re perfect!
+  update comment
+  change file
+  merge
+  
+future: markdown in github
